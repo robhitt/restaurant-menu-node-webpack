@@ -5,16 +5,16 @@
 Use Node & Webpack by importing files into index.js
 * Load in using 1 div in index.html
 * All other divs created from JS
-* Practice importing and exporting files before they're bundled
+* Practice importing and exporting files before they're bundled by webpack
 
 ## Links
 
-* Live Example - https://robhitt.github.io/flashcards
-* Github - https://www.github.com/robhitt/flashcards
+* Live Example - https://robhitt.github.io/restaurant-menu-node-webpack
+* Github - https://www.github.com/robhitt/restaurant-menu-node-webpack
 
 ## Installation
 
-1. Fire up the [index.html](https://robhitt.github.io/flashcards/) file in any web browser and you'll be good to go!
+1. Fire up the [index.html](https://robhitt.github.io/restaurant-menu-node-webpack/) file in any web browser and you'll be good to go!
 
 ## Contributors
 
